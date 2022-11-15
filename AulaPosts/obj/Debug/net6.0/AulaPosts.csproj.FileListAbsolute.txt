@@ -1,0 +1,15 @@
+C:\code\AulaPosts\AulaPosts\obj\Debug\net6.0\AulaPosts.csproj.AssemblyReference.cache
+C:\code\AulaPosts\AulaPosts\obj\Debug\net6.0\AulaPosts.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\AulaPosts\AulaPosts\obj\Debug\net6.0\AulaPosts.AssemblyInfoInputs.cache
+C:\code\AulaPosts\AulaPosts\obj\Debug\net6.0\AulaPosts.AssemblyInfo.cs
+C:\code\AulaPosts\AulaPosts\obj\Debug\net6.0\AulaPosts.csproj.CoreCompileInputs.cache
+C:\code\AulaPosts\AulaPosts\bin\Debug\net6.0\AulaPosts.exe
+C:\code\AulaPosts\AulaPosts\bin\Debug\net6.0\AulaPosts.deps.json
+C:\code\AulaPosts\AulaPosts\bin\Debug\net6.0\AulaPosts.runtimeconfig.json
+C:\code\AulaPosts\AulaPosts\bin\Debug\net6.0\AulaPosts.dll
+C:\code\AulaPosts\AulaPosts\bin\Debug\net6.0\AulaPosts.pdb
+C:\code\AulaPosts\AulaPosts\obj\Debug\net6.0\AulaPosts.dll
+C:\code\AulaPosts\AulaPosts\obj\Debug\net6.0\refint\AulaPosts.dll
+C:\code\AulaPosts\AulaPosts\obj\Debug\net6.0\AulaPosts.pdb
+C:\code\AulaPosts\AulaPosts\obj\Debug\net6.0\AulaPosts.genruntimeconfig.cache
+C:\code\AulaPosts\AulaPosts\obj\Debug\net6.0\ref\AulaPosts.dll
